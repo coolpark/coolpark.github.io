@@ -272,6 +272,8 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+category_dir: category/
+tag_dir: tag/
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -292,6 +294,6 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: # true
       related: true
 
