@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "코딩 기록 "
+title                    : "코딩의 기록 "
 title_separator          : "-"
 name                     : "SIWON.P"
 description              : ""
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "SIWON.P"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Be amazing person."
   location         : "SEOUL"
   email            : 
   links:
